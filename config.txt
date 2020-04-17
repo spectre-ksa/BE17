@@ -1,6 +1,6 @@
-token= 
-owner= 485936989749772309
+token= NzAwNTczODkxMjk4NTkwNzUw.Xpk6UQ.Wl6UF6-L-G_tgHoWSNpBv33rTgQ
+owner= 575235102024531974
 prefix=  
-game= listening to help / ravens is the best
+game= listening to 
 stayinchannel=true 
 songinstatus=false 
