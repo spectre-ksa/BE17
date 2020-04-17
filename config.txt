@@ -1,4 +1,4 @@
-token= NzAwNTczODkxMjk4NTkwNzUw.Xpk6UQ.Wl6UF6-L-G_tgHoWSNpBv33rTgQ
+token= 
 owner= 575235102024531974
 prefix=  
 game= listening to 
